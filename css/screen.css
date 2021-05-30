@@ -1,6 +1,8 @@
 /* -- Structure --*/
 body {padding-bottom: 3rem;color: #5a5a5a;font-family: 'Raleway', sans-serif;}
 .member-associations {text-align:center;}
+.topper {background-color:#0F220F; text-align:center; color:#fff; padding:10px 0; font-weight:bold;}
+    .topper a {color:#fff; text-decoration:underline;}
 
 /* -- Text -- */
 h1, h2, h3, h4, h5, h6 {font-family: 'Playfair Display', serif;}
